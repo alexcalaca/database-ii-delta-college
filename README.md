@@ -31,6 +31,6 @@ If you have any questions or need further assistance, feel free to reach out:
 
 - **Prof. Alexandre Calaça**
 - [GitHub](https://github.com/alexcalaca)
-- [Blog](https://dev.to/alexcalaca)
+- [Blog](https://dev.to/alexandrecalaca)
 
 Good luck with your studies!
