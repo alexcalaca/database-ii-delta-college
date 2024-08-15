@@ -18,6 +18,8 @@ Links:
 
 ---
 
+August 21st, 2024 (Wed)  
+Topic: Relationships, Operations with Primary and Foreign Keys, and Constraints
 
 ---
 
