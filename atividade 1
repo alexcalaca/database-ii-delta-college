@@ -1,0 +1,59 @@
+SQL exercises
+Topic: DML
+Prof. Alexandre Calaça github.com/alexcalaca.com
+Aluno: Gabriel Henrique Wolff de Sousa
+Blog: dev.to/alexcalaca
+
+For the following exercises, create a table named Customers
+
+CREATE TABLE Customers (
+ id INT PRIMARY KEY,
+ first_name VARCHAR(50),
+ last_name VARCHAR(50),
+ age INT);
+
+1 - Insert a record with the following values:
+
+INSERT INTO customers (id, first_name, last_name) 
+
+VALUES (1, 'Mishel', 'Henry');
+
+2 - Update the record when id is 1 with the following values:
+
+UPDATE customers SET first_name = 'James', last_name = 'Henryy' WHERE id = 1;
+
+3 - Delete the record when id is 1.
+
+DELETE from Customers WHERE id = 1;
+
+4 - Read (Select) only the second_name from the table Customers
+
+SELECT last_name from Customers;
+
+5 - Insert a record with the following values:
+
+INSERT INTO Customers (id, first_name, last_name) 
+
+VALUES (1, 'Jim', 'Hendrix');
+
+6 - Read (Select) only the first_name from the table Customers when id is 2
+
+SELECT first_name from Customers WHERE id = 2;
+
+7 - Update the record when id is 2 with the following values:
+
+UPDATE Customers SET first_name = 'Roselyn', last_name = 'Alvarez' WHERE id = 2;
+
+8 - Upddate all records with the following value:
+
+UPDATE Customers
+
+SET first_name = 'Michael', last_name = 'Kyle';
+
+9 - Select all records with all fields
+
+SELECT * from Customers;
+
+10 - Delete all records
+
+DROP TABLE customers;
