@@ -23,7 +23,24 @@ Topic: Relationships, Operations with Primary and Foreign Keys, and Constraints
 
 ---
 
+
+---
+
+August 28st, 2024 (Wed)  
+Topic: Review
+
+---
+
+
+---
+
+September 03rd, 2024 (Wed)  
+Topic: Review of joins and coding challenges
+
+---
+
 References  
   https://www.geeksforgeeks.org/sql-tutorial/  
   https://www.geeksforgeeks.org/30-days-of-sql-from-basic-to-advanced-level/  
   https://www.w3schools.com/sql/default.asp  
+  https://leetcode.com/studyplan/top-sql-50/
