@@ -1,0 +1,20 @@
+ATIVIDADE 4
+
+SQL exercises
+Topic: Review of Aggregate functions and Operators
+Due date: September 03rd, 2024 (Tuesday)
+
+Prof. Alexandre Calaça
+Aluno: Gabriel Henrique Wolff de Sousa
+github.com/alexcalaca.com
+Blog: dev.to/alexandrecalaca
+
+Average Selling Price (1251)
+
+SELECT u.product_id, ROUND(SUM(p.price * u.units) / SUM(u.units), 2) AS average_price from UnitsSold u
+JOIN Prices p ON u.product_id = p.product_id AND u.purchase_date BETWEEN p.start_date AND p.end_date GROUP BY u.product_id;
+
+
+Not Boring Movies
+
+SELECT id, movie, description, rating from Cinema WHERE id % 2 <> 0 AND description <> 'boring' ORDER BY rating DESC;
