@@ -19,7 +19,7 @@ Links:
 ---
 
 August 21st, 2024 (Wed)  
-Topic: Relationships, Operations with Primary and Foreign Keys, and Constraints
+Topic: **Relationships, Operations with Primary and Foreign Keys, and Constraints**
 
 ---
 
@@ -34,10 +34,29 @@ Topic: Review
 
 ---
 
-September 03rd, 2024 (Wed)  
-Topic: Review of joins and coding challenges
+September 04rd, 2024 (Wed)  
+Topic: **Review of joins and coding challenges**
 
 ---
+
+September 11th, 2024 (Wed)  
+Topic: **View tables in Postgres**
+
+---
+
+
+---
+
+September 18th, 2024 (Wed)  
+Semana Multidisciplinar Delta
+
+---
+
+September 25th, 2024 (Wed)  
+Topic: **Subqueries**
+
+---
+
 
 References  
   https://www.geeksforgeeks.org/sql-tutorial/  
