@@ -1,9 +1,9 @@
-August 07th, 2024 (Wed)  
+1. August 07th, 2024 (Wed)  
 Basic DML operations
 
 ---
 
-August 14th, 2024 (Wed)  
+2. August 14th, 2024 (Wed)  
 Topic: Aggregate functions and SQL Operators
 
 Links:
@@ -18,45 +18,40 @@ Links:
 
 ---
 
-August 21st, 2024 (Wed)  
+3. August 21st, 2024 (Wed)  
 Topic: **Relationships, Operations with Primary and Foreign Keys, and Constraints**
 
 ---
 
-
----
-
-August 28st, 2024 (Wed)  
+4. August 28st, 2024 (Wed)  
 Topic: Review
 
 ---
 
-
----
-
-September 04rd, 2024 (Wed)  
+5. September 04rd, 2024 (Wed)  
 Topic: **Review of joins and coding challenges**
 
 ---
 
-September 11th, 2024 (Wed)  
+6. September 11th, 2024 (Wed)  
 Topic: **View tables in Postgres**
 
 ---
 
-
----
 
 September 18th, 2024 (Wed)  
 Semana Multidisciplinar Delta
 
 ---
 
-September 25th, 2024 (Wed)  
-Topic: **Subqueries**
+7. September 25th, 2024 (Wed)  
+Topic: **Subqueries, group by and having**
+
+Links:  
+SQL Sub Queries: https://www.geeksforgeeks.org/sql-subquery/  
+Group by and having: https://www.geeksforgeeks.org/sql-group-by/  
 
 ---
-
 
 References  
   https://www.geeksforgeeks.org/sql-tutorial/  
