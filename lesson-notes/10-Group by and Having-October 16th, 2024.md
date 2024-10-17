@@ -85,10 +85,10 @@ HAVING SUM(amount) BETWEEN 450 AND 13000
 
 10. Problem: Find customers who have placed more than one order and spent more than 300 in total.
 ```
-SELECT c.customer_id, c.first_name, c.last_name, COUNT(o.order_id) AS order_count, SUM(o.amount) AS total_amount
+SELECT c.customer_id as 'Customer', first_name as 'First name', last_name as 'last name', SUM(amount) as 'Total amount', COUNT(o.order_id) as 'Total of orders'
 FROM Customers c
 JOIN Orders o ON c.customer_id = o.customer_id
-GROUP BY c.customer_id, c.first_name, c.last_name
-HAVING COUNT(o.order_id) > 1 AND SUM(o.amount) > 300;
+GROUP BY c.customer_id
+HAVING SUM(amount) > 300 AND COUNT(order_id) > 1
 ```
 
