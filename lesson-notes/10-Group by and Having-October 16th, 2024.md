@@ -1,11 +1,7 @@
-10th class of Database II - Delta College
+> Prof. Alexandre Calaça
+> 10th class of Database II - Delta College
 
-Considering the following tables
-![image](https://github.com/user-attachments/assets/074e6f30-4481-4be8-b53a-23382e03a2da)
-
-![image](https://github.com/user-attachments/assets/b47e4188-0d65-4983-a693-f7c98446880d)
-
-Link: https://www.programiz.com/sql/online-compiler/
+Considering the following tables here https://www.programiz.com/sql/online-compiler/
 
 ---
 
