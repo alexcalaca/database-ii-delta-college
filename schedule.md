@@ -53,6 +53,55 @@ Group by and having: https://www.geeksforgeeks.org/sql-group-by/
 
 ---
 
+8. October 02nd, 2024 (Wed)
+Topic: Review for Test/exam
+
+---
+
+9. October 09th, 2024 (Wed)
+Topic: Test/exam
+
+---
+
+10. October 16th, 2024 (Wed)  
+Topic: **Group BY and HAVING with JOINs**
+
+---
+
+11. October 23rd, 2024 (Wed)  
+Topic: **Stored procedures**
+
+Links: https://www.geeksforgeeks.org/what-is-stored-procedures-in-sql/  
+
+---
+
+12. October 30th, 2024 (Wed)  
+Topic: **Complex queries with JOINs**
+
+---
+
+13. November 06th, 2024 (Wed)
+Topic: **Coding challenges**
+
+---
+
+14. November 13th, 2024 (Wed)
+Topic: **LIKE Operator Wild Cards**
+
+Links: https://www.geeksforgeeks.org/sql-like/  
+https://www.geeksforgeeks.org/sql-wildcard-operators/
+
+---
+
+15. November 20th, 2024 (Wed)
+Topic: Review
+
+---
+
+16. November 27th, 2024 (Wed)
+Topic: Test
+
+---
 References  
   https://www.geeksforgeeks.org/sql-tutorial/  
   https://www.geeksforgeeks.org/30-days-of-sql-from-basic-to-advanced-level/  
