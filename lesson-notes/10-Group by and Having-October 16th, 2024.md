@@ -1,4 +1,4 @@
-> Prof. Alexandre Calaça
+> Prof. Alexandre Calaça  
 > 10th class of Database II - Delta College
 
 Considering the following tables here https://www.programiz.com/sql/online-compiler/
