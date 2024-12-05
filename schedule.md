@@ -94,12 +94,20 @@ https://www.geeksforgeeks.org/sql-wildcard-operators/
 ---
 
 15. November 20th, 2024 (Wed)
-Topic: Review
+Topic: Holiday in Brazil
 
 ---
 
 16. November 27th, 2024 (Wed)
-Topic: Test
+Topic: Review for test/exam
+
+---
+17. December 04th, 2024 (Wed)
+Topic: Test/exam
+
+---
+18. December 11th, 2024 (Wed)
+Topic: Test/exam
 
 ---
 References  
